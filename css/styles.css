@@ -1,0 +1,39 @@
+/* tag selector*/
+body {
+    width: 50%;
+    text-align: center;
+    margin: auto;
+    background-color: hsl(212, 45%, 89%);
+}
+
+h2 {
+    font-size: 1.5rem;
+    font-family: 'Outfit', sans-serif;
+    color: hsl(218, 44%, 22%);
+    width: 100%;
+}
+p {
+    font-size: 1rem;
+    font-family: 'Outfit', sans-serif;
+    color: hsl(220, 15%, 55%);
+    width: 90%;
+    margin: auto;
+    margin-bottom: 20px;
+}
+/* class selector*/
+
+.container {
+    margin: 100px auto 100px auto;
+    width: 300px;
+    padding: 20px;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 20px;
+}
+
+.qr-code {
+        display: inline;
+    position: relative;
+    width: 300px;
+    margin: auto;
+    border-radius: 10px;
+}
